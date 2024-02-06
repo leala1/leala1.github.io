@@ -1,4 +1,3 @@
-![spidermanpuzzle1](https://github.com/leala1/leala1.github.io/assets/158507277/f0e5d92c-4dbc-49a8-841f-32b4f9bf42df)
 <html>
 <head>
     <title>Alejandra's Biography</title>
@@ -20,6 +19,7 @@
     
     <li style="color:A96060">I picked up this hobby during the COVID pandemic. I also love doing jigsaw puzzles. I started out with smaller puzzles but I was finishing them quickly. I then moved up to 1000 piece puzzles and I was still completing them within a day or two. The biggest puzzle I have done was a 3000 piece SpiderMan puzzle. </li>
     <img src ="spidermanpuzzle1.jpg" />
+    ![spidermanpuzzle1](https://github.com/leala1/leala1.github.io/assets/158507277/f0e5d92c-4dbc-49a8-841f-32b4f9bf42df) 
 </ul>
 <br>
 
