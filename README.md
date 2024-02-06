@@ -20,6 +20,7 @@
 </ul>
 <br>
 <p style="color:8A565C" >Education & Work History</p> 
+
 <table align="center" border="1" width="800"; style="color:4B2E39">
 <tr>
 <td>Education:</td>
